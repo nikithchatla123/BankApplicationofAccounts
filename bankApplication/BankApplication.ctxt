@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=BankApplication
+comment1.params=account_number\ name\ password\ balance
+comment1.target=Account(int,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=password
+comment2.target=int\ login(java.lang.String)
+comment3.params=password
+comment3.target=void\ check_balance(java.lang.String)
+comment4.params=num\ password
+comment4.target=void\ credit_or_debit(int,\ java.lang.String)
+comment5.params=obj\ password\ num
+comment5.target=void\ transfer_between_accounts(Account,\ java.lang.String,\ int)
+comment6.params=account_number
+comment6.target=int\ find_account(int)
+comment7.params=account_number\ password\ ope
+comment7.target=void\ operations(int,\ java.lang.String,\ int)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
